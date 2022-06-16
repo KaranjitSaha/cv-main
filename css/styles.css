@@ -1,0 +1,29 @@
+body{
+    background-color: #E8F9FD;
+}
+
+hr{
+    height: 0px;
+    border-style:dotted none none none;
+    width: 5%;
+    border-top-color: grey;
+    border-width: 5px;
+}
+h1{
+    color:#66BFBF;
+    font-family: "Algerian";
+    
+}
+h3{
+    color:#66BFBF;
+    font-family: "Lucida Handwriting";
+}
+li{
+    font-family: "Ink Free";
+}
+td{
+    font-family: "Ink Free";
+}
+th{
+    font-family: "Ink Free";
+}
